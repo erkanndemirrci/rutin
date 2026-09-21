@@ -1,0 +1,9 @@
+{
+  "appId": "com.erkan.gunlukrutin",
+  "appName": "Günlük Rutin",
+  "webDir": "www",
+  "backgroundColor": "#FAF8F5",
+  "android": {
+    "allowMixedContent": false
+  }
+}
